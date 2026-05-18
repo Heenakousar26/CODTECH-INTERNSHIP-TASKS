@@ -1,0 +1,6 @@
+Welcome to CODTECH Internship Task 1.
+This program demonstrates file handling.
+Java file handling is easy to learn.
+
+This line is added later.
+Task 1 completed successfully.
